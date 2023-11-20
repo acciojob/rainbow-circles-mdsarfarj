@@ -1,36 +1,43 @@
 /*  your css code here. If applicable */
+
 #div1{
+	
+	position: absolute;
 height:300px;
 	width:300px;
 	background-color:#ff0000;
 	border-radius:50%;
 }
 #div2{
-	position:realetive
+	  position: absolute;
 height:250px;
 	width:250px;
 	background-color:#ffa500;
 	border-radius:50%;
 }
 #div3{
+	 position: absolute;
 height:200px;
 	width:200px;
 	background-color:#ffff00;
 	border-radius:50%;
 }
 #div4{
+	 position: absolute;
 height:150px;
 	width:150px;
 	background-color:#008000;
 	border-radius:50%;
 }
 #div5{
+	 position: absolute;
 height:100px;
 	width:100px;
 	background-color:#0000ff;
 	border-radius:50%;
 }
 #div6{
+	 position: absolute;
 height:50px;
 	width:50px;
 	background-color:#800080;
